@@ -2,6 +2,7 @@ import React from "react";
 import "./Chat.css";
 
 // TODO: Build the chat section of the app
+// Check the video for next steps
 function Chat() {
   return (
     <div className="chat">
